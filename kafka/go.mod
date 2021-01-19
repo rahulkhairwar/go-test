@@ -1,3 +1,3 @@
-module finaccel.co/common/kafka
+module github.com/rahulkhairwar/go-test/kafka
 
 go 1.15
