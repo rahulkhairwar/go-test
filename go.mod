@@ -1,3 +1,3 @@
-module github.com/rahulkhairwar/common
+module github.com/rahulkhairwar/go-test
 
 go 1.15
