@@ -13,3 +13,7 @@ func Test2() {
 func TestForV6() {
 	fmt.Println("test v0.0.6")
 }
+
+func TestForSQLV0_0_3() {
+	fmt.Println("test sql v0.0.3")
+}
