@@ -7,6 +7,7 @@ import (
 
 func TestImportSql() {
 	sql.TestForSQLV0_0_3()
+	sql.Test2()
 }
 
 func SomeFuncForV0_0_2() {
