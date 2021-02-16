@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func init() {
+	fmt.Println("noCompile.go > init(). Should panic...")
 	panic("not allowed to import common by itself, import individual packages")
 }
 
