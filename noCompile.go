@@ -11,4 +11,4 @@ func main() {
 	fmt.Println("common > noCompile.go > main(). This should panic")
 }
 
-// type noCompile struct
+type NoCompile struct {}
