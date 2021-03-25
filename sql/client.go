@@ -21,3 +21,7 @@ func TestForSQLV0_0_3() {
 func TestForSQLV0_0_4() {
 	fmt.Println("test sql v0.0.4")
 }
+
+func GetStr() string {
+	// v0.0.5
+}
