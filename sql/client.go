@@ -23,5 +23,5 @@ func TestForSQLV0_0_4() {
 }
 
 func GetStr() string {
-	// v0.0.5
+	return "v0.0.5"
 }
